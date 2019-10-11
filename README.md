@@ -1,4 +1,7 @@
 Peer-graded Assignment: Bash, Make, Git, and GitHub
 
-Thu Oct 10 21:17:01 CDT 2019
-LINES 23
+Date/time:
+Thu Oct 10 21:49:31 CDT 2019
+
+Lines in gussinggame.sh:
+23
